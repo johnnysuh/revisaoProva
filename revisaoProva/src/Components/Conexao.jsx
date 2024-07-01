@@ -28,7 +28,7 @@ export default function App() {
 
   return (
     <div className="container">
-      <h1>Busca de Endereço por CEP</h1>
+      <h1>Buscar Endereço</h1>
       <form onSubmit={handleSubmit} className="form">
         <input
           type="text"
