@@ -1,9 +1,9 @@
 import './App.css'
-import Conexao from './Components/Conexao'
+import BuscarCEP from './Components/BuscarCEP'
 
 function App() {
   return (
-   <Conexao/>
+   <BuscarCEP/>
   )
 }
 
